@@ -1,0 +1,4 @@
+This is an old version of the Healpix library in C, before it was completely rewritten.
+
+This version provides the vertex output for the pix2vec_nest function that is used in our stellar astronomy codes.
+Migration to the new Healpix codebase is planned at a future date. 
